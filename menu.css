@@ -1,0 +1,25 @@
+header {
+  height: 100px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #fbf7e3;
+}
+header img {
+  width: 60px;
+}
+button {
+  background-color: #ffdf7f;
+  border: none;
+  padding-inline: 20px;
+  padding-block: 10px;
+  font-size: 15px;
+  border-radius: 35px;
+}
+.grande {
+  padding-inline: 30px;
+  padding-block: 15px;
+  font-size: 25px;
+  align-items: center;
+  display: flex;
+}

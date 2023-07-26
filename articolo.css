@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+article {
+  background-color: #fbf7e3;
+  width: 80%;
+  height: 500px;
+  display: flex;
+  align-items: center;
+  border-radius: 20px;
+  margin-inline: auto;
+  padding-inline: 15px;
+}
+article img {
+  margin-right: 15px;
+}
+.body-articolo {
+  height: 410px;
+}
